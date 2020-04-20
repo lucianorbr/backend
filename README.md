@@ -8,3 +8,6 @@ Criado rotas de acesso, gerenciamento de acesso que necessita apenas do e-mail p
 
 Bibliotecas utilizadas: Express, Cors, Mongoose e Path. </p>
 
+![Captura de tela de 2020-04-20 18-13-17](https://user-images.githubusercontent.com/24936196/79800500-b5356400-8332-11ea-8316-63e3af7872b1.png)
+
+
